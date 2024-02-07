@@ -1,0 +1,17 @@
+{
+  "name": "potree-demoiselles",
+  "version": "1.0.0",
+  "description": "WebGL point cloud viewer for the Demoiselles cave",
+  "keywords": [
+    "point",
+    "cloud",
+    "pointcloud",
+    "webgl",
+    "browser"
+  ],
+  "main": "./index.html",
+  "scripts": {
+    "serve": "http-server . -p 33 -o index.html"
+  },
+  "license": "BSD-2-CLAUSE"
+}
